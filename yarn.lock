@@ -2433,7 +2433,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@stackflow/demo-solid@workspace:demo-solid":
+"@stackflow/demo-solid@npm:^1.2.23, @stackflow/demo-solid@workspace:demo-solid":
   version: 0.0.0-use.local
   resolution: "@stackflow/demo-solid@workspace:demo-solid"
   dependencies:
@@ -2454,6 +2454,7 @@ __metadata:
     "@vanilla-extract/css": "npm:^1.15.3"
     "@vanilla-extract/vite-plugin": "npm:^4.0.12"
     esbuild: "npm:^0.23.0"
+    esbuild-plugin-solid: "npm:^0.6.0"
     lorem-ipsum: "npm:^2.0.8"
     lz-string: "npm:^1.5.0"
     normalize.css: "npm:^8.0.1"
@@ -2512,6 +2513,7 @@ __metadata:
     "@seed-design/stylesheet": "npm:^1.0.4"
     "@stackflow/core": "npm:^1.0.13"
     "@stackflow/demo": "npm:^1.2.23"
+    "@stackflow/demo-solid": "npm:^1.2.23"
     "@stackflow/plugin-basic-ui": "npm:^1.8.2"
     "@stackflow/plugin-history-sync": "npm:^1.5.4"
     "@stackflow/plugin-renderer-basic": "npm:^1.1.10"
