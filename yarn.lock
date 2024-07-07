@@ -2510,13 +2510,11 @@ __metadata:
   dependencies:
     "@stackflow/core": "npm:^1.0.13"
     "@stackflow/esbuild-config": "npm:^1.0.3"
-    "@stackflow/react": "npm:^1.1.11"
     esbuild: "npm:^0.23.0"
     rimraf: "npm:^3.0.2"
     typescript: "npm:^5.5.3"
   peerDependencies:
     "@stackflow/core": ^1
-    "@stackflow/react": ^1
   languageName: unknown
   linkType: soft
 
