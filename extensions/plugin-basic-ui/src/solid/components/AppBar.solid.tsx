@@ -1,6 +1,6 @@
 /* @jsxImportSource solid-js */
 
-import { useActions, useActivity } from "@stackflow/solid";
+import { useActions, useActivity } from "@contentstech/stackflow-solid";
 import { assignInlineVars } from "@vanilla-extract/dynamic";
 import type { JSXElement } from "solid-js";
 import { Match, Show, Switch, createMemo, mergeProps } from "solid-js";

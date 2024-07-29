@@ -1,9 +1,9 @@
 import { vars } from "@seed-design/design-token";
-import { basicUIPlugin } from "@stackflow/plugin-basic-ui";
+import { basicUIPlugin } from "@contentstech/stackflow-plugin-basic-ui";
 import { devtoolsPlugin } from "@stackflow/plugin-devtools";
-import { historySyncPlugin } from "@stackflow/plugin-history-sync";
+import { historySyncPlugin } from "@contentstech/stackflow-plugin-history-sync";
 import { mapInitialActivityPlugin } from "@stackflow/plugin-map-initial-activity";
-import { basicRendererPlugin } from "@stackflow/plugin-renderer-basic";
+import { basicRendererPlugin } from "@contentstech/stackflow-plugin-renderer-basic";
 import { stackflow } from "@stackflow/react";
 import { decompressFromEncodedURIComponent } from "lz-string";
 

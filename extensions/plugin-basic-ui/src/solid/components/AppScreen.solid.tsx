@@ -1,6 +1,6 @@
 /* @jsxImportSource solid-js */
 
-import { useActions, useActivity } from "@stackflow/solid";
+import { useActions, useActivity } from "@contentstech/stackflow-solid";
 import { assignInlineVars } from "@vanilla-extract/dynamic";
 import type { Component, JSXElement } from "solid-js";
 import { createContext, createMemo, useContext } from "solid-js";

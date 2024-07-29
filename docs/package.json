@@ -16,13 +16,13 @@
     "generate:plugins-docs": "rm -rf ./pages/plugins && node scripts/generate-plugins-docs.js"
   },
   "dependencies": {
+    "@contentstech/stackflow-plugin-basic-ui": "^0.1.0",
+    "@contentstech/stackflow-plugin-history-sync": "^0.1.0",
+    "@contentstech/stackflow-plugin-renderer-basic": "^0.1.0",
     "@mdx-js/react": "^3.0.1",
     "@stackflow/core": "^1.0.13",
     "@stackflow/demo": "^1.2.23",
     "@stackflow/demo-solid": "^1.2.23",
-    "@stackflow/plugin-basic-ui": "^1.8.2",
-    "@stackflow/plugin-history-sync": "^1.5.4",
-    "@stackflow/plugin-renderer-basic": "^1.1.10",
     "@stackflow/react": "^1.1.11",
     "@types/react": "^18.3.3",
     "next": "^14.2.4",
