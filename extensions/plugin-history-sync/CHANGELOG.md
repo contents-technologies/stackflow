@@ -1,5 +1,11 @@
 # @stackflow/plugin-history-sync
 
+## 1.6.0
+
+### Minor Changes
+
+- e9bb029: feat(plugin-history-sync): sort routes by computed score
+
 ## 1.5.4
 
 ### Patch Changes
