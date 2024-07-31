@@ -1,5 +1,11 @@
 # @stackflow/plugin-basic-ui
 
+## 0.1.1
+
+### Patch Changes
+
+- 77814aa: fix(plugin-basic-ui): calculate app screen height correctly with safearea
+
 ## 1.8.2
 
 ### Patch Changes

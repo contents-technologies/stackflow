@@ -1,5 +1,12 @@
 # @stackflow/plugin-preload
 
+## 1.3.3
+
+### Patch Changes
+
+- Updated dependencies [e9bb029]
+  - @contentstech/stackflow-plugin-history-sync@0.2.0
+
 ## 1.3.2
 
 ### Patch Changes
